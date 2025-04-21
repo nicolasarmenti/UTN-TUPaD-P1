@@ -1,6 +1,6 @@
 ###
-### UTN - TUPD 2025 - Programación 1 - TP Unidad 1 Estructuras Secuenciales
-### Nicolás Corrado Armenti
+### UTN - TUPD 2025 - Programación 1 - TP Unidad 3 Estructuras Condicionales
+### Nicolás Corrado Armenti (Mat: 101035)
 ###
 
 #1) Escribir un programa que solicite la edad del usuario. Si el usuario es mayor de 18 años, deberá mostrar un mensaje en pantalla que diga “Es mayor de edad".
